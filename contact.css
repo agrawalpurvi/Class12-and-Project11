@@ -1,0 +1,8 @@
+body{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.652),rgba(0, 0, 0, 0.652)), url("images/img32.jpg");
+    background-size: cover;
+    
+}
+main{
+    background-color: rgba(69, 67, 67, 0.452);
+}
